@@ -1,0 +1,349 @@
+{
+  "words": [
+    {
+      "category": "Существительные",
+      "items": [
+        {
+          "id": 1,
+          "russian": "Вода",
+          "korean": "물",
+          "word_audio": "https://forvo.com/word/물/#ko",
+          "example_russian": "Можно стакан воды?",
+          "example_korean": "물 한 잔 주시겠어요?",
+          "example_audio": "https://koreanpractice.com/audio/glass_of_water.mp3",
+          "image": "https://example.com/images/water.jpg",
+          "learned": false
+        },
+        {
+          "id": 2,
+          "russian": "Книга",
+          "korean": "책",
+          "word_audio": "https://forvo.com/word/책/#ko",
+          "example_russian": "Я читаю интересную книгу.",
+          "example_korean": "저는 재미있는 책을 읽고 있어요.",
+          "example_audio": "https://koreanpractice.com/audio/reading_book.mp3",
+          "image": "https://example.com/images/book.jpg",
+          "learned": true
+        },
+        {
+          "id": 3,
+          "russian": "Дом",
+          "korean": "집",
+          "word_audio": "https://forvo.com/word/집/#ko",
+          "example_russian": "Идём домой.",
+          "example_korean": "집에 갑시다.",
+          "example_audio": "https://koreanpractice.com/audio/lets_go_home.mp3",
+          "image": "https://example.com/images/house.jpg",
+          "learned": true
+        },
+        {
+          "id": 4,
+          "russian": "Еда",
+          "korean": "음식",
+          "word_audio": "https://forvo.com/word/음식/#ko",
+          "example_russian": "Корейская еда очень вкусная.",
+          "example_korean": "한국 음식은 매우 맛있어요.",
+          "example_audio": "https://koreanpractice.com/audio/korean_food.mp3",
+          "image": "https://example.com/images/food.jpg",
+          "learned": false
+        },
+        {
+          "id": 5,
+          "russian": "Время",
+          "korean": "시간",
+          "word_audio": "https://forvo.com/word/시간/#ko",
+          "example_russian": "У меня нет времени.",
+          "example_korean": "저는 시간이 없어요.",
+          "example_audio": "https://koreanpractice.com/audio/no_time.mp3",
+          "image": "https://example.com/images/time.jpg",
+          "learned": true
+        },
+        {
+          "id": 6,
+          "russian": "Деньги",
+          "korean": "돈",
+          "word_audio": "https://forvo.com/word/돈/#ko",
+          "example_russian": "Сколько это стоит?",
+          "example_korean": "이거 얼마예요?",
+          "example_audio": "https://koreanpractice.com/audio/how_much.mp3",
+          "image": "https://example.com/images/money.jpg",
+          "learned": false
+        },
+        {
+          "id": 7,
+          "russian": "Друг",
+          "korean": "친구",
+          "word_audio": "https://forvo.com/word/친구/#ko",
+          "example_russian": "Он мой лучший друг.",
+          "example_korean": "그는 나의 가장 친한 친구예요.",
+          "example_audio": "https://koreanpractice.com/audio/best_friend.mp3",
+          "image": "https://example.com/images/friend.jpg",
+          "learned": true
+        },
+        {
+          "id": 8,
+          "russian": "Город",
+          "korean": "도시",
+          "word_audio": "https://forvo.com/word/도시/#ko",
+          "example_russian": "Сеул - большой город.",
+          "example_korean": "서울은 큰 도시예요.",
+          "example_audio": "https://koreanpractice.com/audio/seoul_city.mp3",
+          "image": "https://example.com/images/city.jpg",
+          "learned": false
+        },
+        {
+          "id": 9,
+          "russian": "Работа",
+          "korean": "일",
+          "word_audio": "https://forvo.com/word/일/#ko",
+          "example_russian": "У меня много работы.",
+          "example_korean": "저는 일이 많아요.",
+          "example_audio": "https://koreanpractice.com/audio/lots_of_work.mp3",
+          "image": "https://example.com/images/work.jpg",
+          "learned": true
+        },
+        {
+          "id": 10,
+          "russian": "Язык",
+          "korean": "언어",
+          "word_audio": "https://forvo.com/word/언어/#ko",
+          "example_russian": "Я изучаю корейский язык.",
+          "example_korean": "저는 한국어를 배워요.",
+          "example_audio": "https://koreanpractice.com/audio/learning_korean.mp3",
+          "image": "https://example.com/images/language.jpg",
+          "learned": false
+        }
+      ]
+    },
+    {
+      "category": "Глаголы",
+      "items": [
+        {
+          "id": 11,
+          "russian": "Делать",
+          "korean": "하다",
+          "word_audio": "https://forvo.com/word/하다/#ko",
+          "example_russian": "Что ты делаешь?",
+          "example_korean": "뭐 해요?",
+          "example_audio": "https://koreanpractice.com/audio/what_doing.mp3",
+          "image": "https://example.com/images/do.jpg",
+          "learned": true
+        },
+        {
+          "id": 12,
+          "russian": "Говорить",
+          "korean": "말하다",
+          "word_audio": "https://forvo.com/word/말하다/#ko",
+          "example_russian": "Я говорю по-корейски.",
+          "example_korean": "저는 한국어로 말해요.",
+          "example_audio": "https://koreanpractice.com/audio/speak_korean.mp3",
+          "image": "https://example.com/images/speak.jpg",
+          "learned": false
+        },
+        {
+          "id": 13,
+          "russian": "Есть (кушать)",
+          "korean": "먹다",
+          "word_audio": "https://forvo.com/word/먹다/#ko",
+          "example_russian": "Давайте поедим.",
+          "example_korean": "먹자.",
+          "example_audio": "https://koreanpractice.com/audio/lets_eat.mp3",
+          "image": "https://example.com/images/eat.jpg",
+          "learned": true
+        },
+        {
+          "id": 14,
+          "russian": "Пить",
+          "korean": "마시다",
+          "word_audio": "https://forvo.com/word/마시다/#ko",
+          "example_russian": "Я пью кофе.",
+          "example_korean": "저는 커피를 마셔요.",
+          "example_audio": "https://koreanpractice.com/audio/drink_coffee.mp3",
+          "image": "https://example.com/images/drink.jpg",
+          "learned": true
+        },
+        {
+          "id": 15,
+          "russian": "Идти",
+          "korean": "가다",
+          "word_audio": "https://forvo.com/word/가다/#ko",
+          "example_russian": "Я иду в школу.",
+          "example_korean": "저는 학교에 가요.",
+          "example_audio": "https://koreanpractice.com/audio/go_to_school.mp3",
+          "image": "https://example.com/images/go.jpg",
+          "learned": false
+        },
+        {
+          "id": 16,
+          "russian": "Видеть",
+          "korean": "보다",
+          "word_audio": "https://forvo.com/word/보다/#ko",
+          "example_russian": "Я видел этот фильм.",
+          "example_korean": "저는 그 영화를 봤어요.",
+          "example_audio": "https://koreanpractice.com/audio/saw_movie.mp3",
+          "image": "https://example.com/images/see.jpg",
+          "learned": true
+        },
+        {
+          "id": 17,
+          "russian": "Слушать",
+          "korean": "듣다",
+          "word_audio": "https://forvo.com/word/듣다/#ko",
+          "example_russian": "Я слушаю музыку.",
+          "example_korean": "저는 음악을 들어요.",
+          "example_audio": "https://koreanpractice.com/audio/listen_music.mp3",
+          "image": "https://example.com/images/listen.jpg",
+          "learned": false
+        },
+        {
+          "id": 18,
+          "russian": "Читать",
+          "korean": "읽다",
+          "word_audio": "https://forvo.com/word/읽다/#ko",
+          "example_russian": "Я читаю газету.",
+          "example_korean": "저는 신문을 읽어요.",
+          "example_audio": "https://koreanpractice.com/audio/read_newspaper.mp3",
+          "image": "https://example.com/images/read.jpg",
+          "learned": true
+        },
+        {
+          "id": 19,
+          "russian": "Писать",
+          "korean": "쓰다",
+          "word_audio": "https://forvo.com/word/쓰다/#ko",
+          "example_russian": "Я пишу письмо.",
+          "example_korean": "저는 편지를 써요.",
+          "example_audio": "https://koreanpractice.com/audio/write_letter.mp3",
+          "image": "https://example.com/images/write.jpg",
+          "learned": false
+        },
+        {
+          "id": 20,
+          "russian": "Спать",
+          "korean": "자다",
+          "word_audio": "https://forvo.com/word/자다/#ko",
+          "example_russian": "Я хочу спать.",
+          "example_korean": "저는 자고 싶어요.",
+          "example_audio": "https://koreanpractice.com/audio/want_sleep.mp3",
+          "image": "https://example.com/images/sleep.jpg",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "category": "Обращения и фразы",
+      "items": [
+        {
+          "id": 21,
+          "russian": "Спасибо",
+          "korean": "감사합니다",
+          "word_audio": "https://forvo.com/word/감사합니다/#ko",
+          "example_russian": "Большое спасибо!",
+          "example_korean": "정말 감사합니다!",
+          "example_audio": "https://koreanpractice.com/audio/thank_you_very_much.mp3",
+          "image": "https://example.com/images/thanks.jpg",
+          "learned": true
+        },
+        {
+          "id": 22,
+          "russian": "Пожалуйста (просьба)",
+          "korean": "제발",
+          "word_audio": "https://forvo.com/word/제발/#ko",
+          "example_russian": "Помогите, пожалуйста.",
+          "example_korean": "제발 도와주세요.",
+          "example_audio": "https://koreanpractice.com/audio/please_help.mp3",
+          "image": "https://example.com/images/please.jpg",
+          "learned": true
+        },
+        {
+          "id": 23,
+          "russian": "Пожалуйста (ответ)",
+          "korean": "천만에요",
+          "word_audio": "https://forvo.com/word/천만에요/#ko",
+          "example_russian": "- Спасибо! - Пожалуйста!",
+          "example_korean": "- 감사합니다! - 천만에요!",
+          "example_audio": "https://koreanpractice.com/audio/youre_welcome.mp3",
+          "image": "https://example.com/images/welcome.jpg",
+          "learned": true
+        },
+        {
+          "id": 24,
+          "russian": "Извините",
+          "korean": "죄송합니다",
+          "word_audio": "https://forvo.com/word/죄송합니다/#ko",
+          "example_russian": "Извините за опоздание.",
+          "example_korean": "늦어서 죄송합니다.",
+          "example_audio": "https://koreanpractice.com/audio/sorry_late.mp3",
+          "image": "https://example.com/images/sorry.jpg",
+          "learned": true
+        },
+        {
+          "id": 25,
+          "russian": "Здравствуйте",
+          "korean": "안녕하세요",
+          "word_audio": "https://forvo.com/word/안녕하세요/#ko",
+          "example_russian": "Здравствуйте, как дела?",
+          "example_korean": "안녕하세요, 어떻게 지내세요?",
+          "example_audio": "https://koreanpractice.com/audio/hello_how_are_you.mp3",
+          "image": "https://example.com/images/hello.jpg",
+          "learned": true
+        },
+        {
+          "id": 26,
+          "russian": "До свидания (уходит собеседник)",
+          "korean": "안녕히 가세요",
+          "word_audio": "https://forvo.com/word/안녕히_가세요/#ko",
+          "example_russian": "До свидания! Будьте здоровы!",
+          "example_korean": "안녕히 가세요!",
+          "example_audio": "https://koreanpractice.com/audio/goodbye_go.mp3",
+          "image": "https://example.com/images/goodbye_go.jpg",
+          "learned": false
+        },
+        {
+          "id": 27,
+          "russian": "До свидания (уходите вы)",
+          "korean": "안녕히 계세요",
+          "word_audio": "https://forvo.com/word/안녕히_계세요/#ko",
+          "example_russian": "До свидания! Оставайтесь!",
+          "example_korean": "안녕히 계세요!",
+          "example_audio": "https://koreanpractice.com/audio/goodbye_stay.mp3",
+          "image": "https://example.com/images/goodbye_stay.jpg",
+          "learned": false
+        },
+        {
+          "id": 28,
+          "russian": "Да",
+          "korean": "네",
+          "word_audio": "https://forvo.com/word/네/#ko",
+          "example_russian": "Да, я понимаю.",
+          "example_korean": "네, 이해해요.",
+          "example_audio": "https://koreanpractice.com/audio/yes_understand.mp3",
+          "image": "https://example.com/images/yes.jpg",
+          "learned": true
+        },
+        {
+          "id": 29,
+          "russian": "Нет",
+          "korean": "아니요",
+          "word_audio": "https://forvo.com/word/아니요/#ko",
+          "example_russian": "Нет, спасибо.",
+          "example_korean": "아니요, 괜찮아요.",
+          "example_audio": "https://koreanpractice.com/audio/no_thanks.mp3",
+          "image": "https://example.com/images/no.jpg",
+          "learned": true
+        },
+        {
+          "id": 30,
+          "russian": "Простите (обращение)",
+          "korean": "실례합니다",
+          "word_audio": "https://forvo.com/word/실례합니다/#ko",
+          "example_russian": "Простите, где здесь станция метро?",
+          "example_korean": "실례합니다, 여기 지하철역이 어디예요?",
+          "example_audio": "https://koreanpractice.com/audio/excuse_me_subway.mp3",
+          "image": "https://example.com/images/excuse_me.jpg",
+          "learned": false
+        }
+      ]
+    }
+  ]
+}

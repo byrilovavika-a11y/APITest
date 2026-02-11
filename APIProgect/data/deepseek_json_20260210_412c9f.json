@@ -1,0 +1,278 @@
+{
+  "words": [
+    {
+      "category": "Базовые согласные",
+      "items": [
+        {
+          "id": 1,
+          "russian": "К/Г",
+          "korean": "ㄱ (기역)",
+          "word_audio": "https://forvo.com/word/개/#ko",
+          "example_russian": "Собака",
+          "example_korean": "개",
+          "example_audio": "https://koreanpractice.com/audio/gae.mp3",
+          "image": "https://example.com/images/dog.jpg",
+          "learned": false,
+          "description": "Произносится как 'К' в начале слова, как 'Г' между гласными"
+        },
+        {
+          "id": 2,
+          "russian": "Н",
+          "korean": "ㄴ (니은)",
+          "word_audio": "https://forvo.com/word/눈/#ko",
+          "example_russian": "Глаз / Снег",
+          "example_korean": "눈",
+          "example_audio": "https://koreanpractice.com/audio/nun.mp3",
+          "image": "https://example.com/images/eye_snow.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Н'"
+        },
+        {
+          "id": 3,
+          "russian": "Т/Д",
+          "korean": "ㄷ (디귿)",
+          "word_audio": "https://forvo.com/word/돈/#ko",
+          "example_russian": "Деньги",
+          "example_korean": "돈",
+          "example_audio": "https://koreanpractice.com/audio/don.mp3",
+          "image": "https://example.com/images/money_coin.jpg",
+          "learned": false,
+          "description": "Произносится как 'Т' в начале слова, как 'Д' между гласными"
+        },
+        {
+          "id": 4,
+          "russian": "Р/Л",
+          "korean": "ㄹ (리을)",
+          "word_audio": "https://forvo.com/word/라면/#ko",
+          "example_russian": "Лапша быстрого приготовления",
+          "example_korean": "라면",
+          "example_audio": "https://koreanpractice.com/audio/ramyeon.mp3",
+          "image": "https://example.com/images/ramen.jpg",
+          "learned": false,
+          "description": "В начале слова как 'Р', в конце как 'Л'"
+        },
+        {
+          "id": 5,
+          "russian": "М",
+          "korean": "ㅁ (미음)",
+          "word_audio": "https://forvo.com/word/밥/#ko",
+          "example_russian": "Рис / Еда",
+          "example_korean": "밥",
+          "example_audio": "https://koreanpractice.com/audio/bap.mp3",
+          "image": "https://example.com/images/rice.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'М'"
+        },
+        {
+          "id": 6,
+          "russian": "П/Б",
+          "korean": "ㅂ (비읍)",
+          "word_audio": "https://forvo.com/word/불/#ko",
+          "example_russian": "Огонь",
+          "example_korean": "불",
+          "example_audio": "https://koreanpractice.com/audio/bul.mp3",
+          "image": "https://example.com/images/fire.jpg",
+          "learned": false,
+          "description": "Произносится как 'П' в начале слова, как 'Б' между гласными"
+        },
+        {
+          "id": 7,
+          "russian": "С",
+          "korean": "ㅅ (시옷)",
+          "word_audio": "https://forvo.com/word/손/#ko",
+          "example_russian": "Рука",
+          "example_korean": "손",
+          "example_audio": "https://koreanpractice.com/audio/son.mp3",
+          "image": "https://example.com/images/hand.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'С'"
+        },
+        {
+          "id": 8,
+          "russian": "Нет звука / -НГ",
+          "korean": "ㅇ (이응)",
+          "word_audio": "https://forvo.com/word/얼굴/#ko",
+          "example_russian": "Лицо",
+          "example_korean": "얼굴",
+          "example_audio": "https://koreanpractice.com/audio/eolgul.mp3",
+          "image": "https://example.com/images/face.jpg",
+          "learned": false,
+          "description": "В начале слога не читается, в конце слога читается как 'НГ'"
+        },
+        {
+          "id": 9,
+          "russian": "Ч/ДЖ",
+          "korean": "ㅈ (지읒)",
+          "word_audio": "https://forvo.com/word/집/#ko",
+          "example_russian": "Дом",
+          "example_korean": "집",
+          "example_audio": "https://koreanpractice.com/audio/jip.mp3",
+          "image": "https://example.com/images/house.jpg",
+          "learned": false,
+          "description": "Произносится как 'Ч' в начале слова, как мягкое 'ДЖ' между гласными"
+        },
+        {
+          "id": 10,
+          "russian": "ЧХ",
+          "korean": "ㅊ (치읓)",
+          "word_audio": "https://forvo.com/word/차/#ko",
+          "example_russian": "Машина / Чай",
+          "example_korean": "차",
+          "example_audio": "https://koreanpractice.com/audio/cha.mp3",
+          "image": "https://example.com/images/car_tea.jpg",
+          "learned": false,
+          "description": "Придыхательный звук, похожий на 'Ч' с выдохом"
+        },
+        {
+          "id": 11,
+          "russian": "КХ",
+          "korean": "ㅋ (키읔)",
+          "word_audio": "https://forvo.com/word/코/#ko",
+          "example_russian": "Нос",
+          "example_korean": "코",
+          "example_audio": "https://koreanpractice.com/audio/kho.mp3",
+          "image": "https://example.com/images/nose.jpg",
+          "learned": false,
+          "description": "Придыхательный звук, похожий на 'К' с выдохом"
+        },
+        {
+          "id": 12,
+          "russian": "ТХ",
+          "korean": "ㅌ (티읕)",
+          "word_audio": "https://forvo.com/word/탑/#ko",
+          "example_russian": "Башня",
+          "example_korean": "탑",
+          "example_audio": "https://koreanpractice.com/audio/thap.mp3",
+          "image": "https://example.com/images/tower.jpg",
+          "learned": false,
+          "description": "Придыхательный звук, похожий на 'Т' с выдохом"
+        },
+        {
+          "id": 13,
+          "russian": "ПХ",
+          "korean": "ㅍ (피읖)",
+          "word_audio": "https://forvo.com/word/팔/#ko",
+          "example_russian": "Рука (часть тела)",
+          "example_korean": "팔",
+          "example_audio": "https://koreanpractice.com/audio/phal.mp3",
+          "image": "https://example.com/images/arm.jpg",
+          "learned": false,
+          "description": "Придыхательный звук, похожий на 'П' с выдохом"
+        },
+        {
+          "id": 14,
+          "russian": "Х",
+          "korean": "ㅎ (히읗)",
+          "word_audio": "https://forvo.com/word/하늘/#ko",
+          "example_russian": "Небо",
+          "example_korean": "하늘",
+          "example_audio": "https://koreanpractice.com/audio/haneul.mp3",
+          "image": "https://example.com/images/sky.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Х', но более мягко"
+        }
+      ]
+    },
+    {
+      "category": "Основные гласные",
+      "items": [
+        {
+          "id": 15,
+          "russian": "А",
+          "korean": "ㅏ (아)",
+          "word_audio": "https://forvo.com/word/아기/#ko",
+          "example_russian": "Малыш, младенец",
+          "example_korean": "아기",
+          "example_audio": "https://koreanpractice.com/audio/agi.mp3",
+          "image": "https://example.com/images/baby.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'А'"
+        },
+        {
+          "id": 16,
+          "russian": "Я",
+          "korean": "ㅑ (야)",
+          "word_audio": "https://forvo.com/word/야구/#ko",
+          "example_russian": "Бейсбол",
+          "example_korean": "야구",
+          "example_audio": "https://koreanpractice.com/audio/yagu.mp3",
+          "image": "https://example.com/images/baseball.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Я'"
+        },
+        {
+          "id": 17,
+          "russian": "О",
+          "korean": "ㅓ (어)",
+          "word_audio": "https://forvo.com/word/어머니/#ko",
+          "example_russian": "Мама (уважительно)",
+          "example_korean": "어머니",
+          "example_audio": "https://koreanpractice.com/audio/eomeoni.mp3",
+          "image": "https://example.com/images/mother.jpg",
+          "learned": false,
+          "description": "Произносится как открытое 'О' (похоже на английское 'aw')"
+        },
+        {
+          "id": 18,
+          "russian": "Ё",
+          "korean": "ㅕ (여)",
+          "word_audio": "https://forvo.com/word/열/#ko",
+          "example_russian": "Десять",
+          "example_korean": "열",
+          "example_audio": "https://koreanpractice.com/audio/yeol.mp3",
+          "image": "https://example.com/images/number10.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Ё'"
+        },
+        {
+          "id": 19,
+          "russian": "О",
+          "korean": "ㅗ (오)",
+          "word_audio": "https://forvo.com/word/오리/#ko",
+          "example_russian": "Утка",
+          "example_korean": "오리",
+          "example_audio": "https://koreanpractice.com/audio/ori.mp3",
+          "image": "https://example.com/images/duck.jpg",
+          "learned": false,
+          "description": "Произносится как закрытое 'О' (губы округлены)"
+        },
+        {
+          "id": 20,
+          "russian": "Ё",
+          "korean": "ㅛ (요)",
+          "word_audio": "https://forvo.com/word/요리/#ko",
+          "example_russian": "Готовка (кухня)",
+          "example_korean": "요리",
+          "example_audio": "https://koreanpractice.com/audio/yori.mp3",
+          "image": "https://example.com/images/cooking.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Ё', но более протяжно"
+        },
+        {
+          "id": 21,
+          "russian": "У",
+          "korean": "ㅜ (우)",
+          "word_audio": "https://forvo.com/word/우유/#ko",
+          "example_russian": "Молоко",
+          "example_korean": "우유",
+          "example_audio": "https://koreanpractice.com/audio/uyu.mp3",
+          "image": "https://example.com/images/milk.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'У'"
+        },
+        {
+          "id": 22,
+          "russian": "Ю",
+          "korean": "ㅠ (유)",
+          "word_audio": "https://forvo.com/word/유리/#ko",
+          "example_russian": "Стекло",
+          "example_korean": "유리",
+          "example_audio": "https://koreanpractice.com/audio/yuri.mp3",
+          "image": "https://example.com/images/glass.jpg",
+          "learned": false,
+          "description": "Произносится как русское 'Ю'"
+        }
+      ]
+    }
+  ]
+}
